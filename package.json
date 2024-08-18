@@ -4,9 +4,10 @@
   "description": "Bookstream features a clean and responsive interface, advanced search functionality, and secure payment processing. Perfect for developers looking to create or contribute to a dynamic, feature-rich bookstore application.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Yash Kumar Saini",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
