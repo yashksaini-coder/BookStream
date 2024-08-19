@@ -32,6 +32,21 @@ async function run() {
         res.send(result);
     });
 
+    // updating a book
+    app.patch('/book/:id', async (req, res) => {
+        const id = req.params.id;
+        const updatedBook = req.body;
+        const filter = { _id: new ObjectId(id) };
+        const updatedoc = {
+          $set: {
+            ...updatedBook
+          },
+        };
+        const options = { upsert: false }; // Set upsert to false to prevent creating a new tuple with duplicate id
+        const result = await books_collection.updateOne(filter, updatedoc, options);
+        res.send(result);
+    });
+  
     await client.db("admin").command({ ping: 1 });
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
   } finally {
