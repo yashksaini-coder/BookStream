@@ -14,5 +14,8 @@
     "express": "^4.19.2",
     "mongodb": "^6.8.0",
     "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.4.1"
   }
 }
