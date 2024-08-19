@@ -1,4 +1,4 @@
-const { MongoClient, ServerApiVersion } = require('mongodb');
+const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const express = require('express');
 const app = express();
 app.use(express.json());
@@ -17,10 +17,18 @@ async function run() {
   try {
     await client.connect();
 
+    // adding a book
     const books_collection = client.db("bookStore").collection("books");
     app.post('/uploadbook', async (req, res) => {
         const newBook = req.body;
         const result = books_collection.insertOne(newBook);
+        res.send(result);
+    });
+
+    // getting all books
+    app.get('/allbooks', async (req, res) => {
+        const allBooks = books_collection.find()
+        const result = await allBooks.toArray();
         res.send(result);
     });
 
