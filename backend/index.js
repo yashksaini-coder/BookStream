@@ -13,7 +13,7 @@ app.use((err, req, res, next) => {
     next();
 });
 
-app.get('/', (res) => {
+app.get('/', (req,res) => {
     res.send('Hello World!');
 });
 
