@@ -1,3 +1,46 @@
+# Bookstream
+
+Bookstream features a clean and responsive interface, advanced search functionality, and secure payment processing. Perfect for developers looking to create or contribute to a dynamic, feature-rich bookstore application.
+
+## Features
+
+- **User Authentication**: Secure user login and registration.
+- **Book Management**: Add, edit, and delete books.
+- **Advanced Search**: Filter books by various criteria.
+- **Secure Payment**: Implement secure payment processing.
+- **Responsive Design**: Ensure a seamless experience on all devices.
+
+##Techstack
+
+- **Frontend**: Next.js, TailwindCSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Authentication**: JSON Web Tokens (JWT)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/bookstream.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   cd bookstream
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+4. Access the application at `http://localhost:3000`.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.    
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
