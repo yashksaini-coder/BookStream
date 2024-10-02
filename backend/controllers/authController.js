@@ -8,7 +8,6 @@ const generateToken = (id, email,name) => {
   
 exports.registerUser = async (req, res, next) => {
     const { name,email,password } = req.body;
-    console.log(req.body);
     try {
         const errors = validationResult(req);
         if (!errors.isEmpty()) {
