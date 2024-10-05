@@ -15,7 +15,7 @@ const LoginPage: React.FC = () => {
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
     try {
-      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/auth/login`, {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/auth/LoginPage`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
@@ -69,7 +69,7 @@ const LoginPage: React.FC = () => {
           </button>
         </form>
         <p className="mt-4 text-black text-center">
-          Don't have an account? <Link href="/register" className="text-blue-600 hover:underline">Register here</Link>
+          Don'&apos;have an account? <Link href="/register" className="text-blue-600 hover:underline">Register here</Link>
         </p>
       </div>
     </div>
