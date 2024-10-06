@@ -27,7 +27,7 @@ const LoginPage: React.FC = () => {
         toast.success('Logged In!!');
       } else {
         // Handle error
-        toast.error(data.data)
+        toast.error(data.data);
       }
     } catch (error) {
       console.error('An error occurred:', error);
@@ -69,7 +69,7 @@ const LoginPage: React.FC = () => {
           </button>
         </form>
         <p className="mt-4 text-black text-center">
-          Don'&apos;have an account? <Link href="/register" className="text-blue-600 hover:underline">Register here</Link>
+          Don&apos;t have an account? <Link href="/register" className="text-blue-600 hover:underline">Register here</Link>
         </p>
       </div>
     </div>
