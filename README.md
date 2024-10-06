@@ -21,7 +21,7 @@ Bookstream features a clean and responsive interface, advanced search functional
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bookstream.git
+   git clone https://github.com/yashksaini-coder/BookStream.git
    ```
 
 2. Install dependencies:
