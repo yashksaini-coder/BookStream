@@ -23,16 +23,27 @@ const LoginPage: React.FC = () => {
         body: JSON.stringify({ email, password }),
       });
       const data = await response.json();
+      
       if (response.ok) {
         login(data);
         router.push('/');
         toast.success('Logged In!!');
       } else {
-        // Handle error
-        toast.error(data.data);
+        // Enhanced error handling
+        if (response.status === 400) {
+          toast.error("Invalid email or password. Please try again.");
+        } else if (response.status === 401) {
+          toast.error("Unauthorized access. Please check your credentials.");
+        } else if (response.status === 500) {
+          toast.error("Server error. Please try again later.");
+        } else {
+          toast.error("An unexpected error occurred. Please try again.");
+        }
       }
     } catch (error) {
+      // Handle network errors or unexpected errors
       console.error('An error occurred:', error);
+      toast.error("Network error. Please check your connection.");
     }
   };
 
@@ -63,10 +74,12 @@ const LoginPage: React.FC = () => {
                 className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 required
               />
-              <button className='absolute top-0 translate-y-1/2 right-2' onClick={()=>setHidden(!hidden)}>
-                {
-                  hidden ? <EyeOff /> : <Eye />
-                }
+              <button 
+                type="button" 
+                className='absolute top-0 translate-y-1/2 right-2' 
+                onClick={() => setHidden(!hidden)} 
+                aria-label={hidden ? "Show password" : "Hide password"}>
+                {hidden ? <EyeOff /> : <Eye />}
               </button>
             </div>
           </div>
