@@ -14,16 +14,25 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
 ---
 
 ## Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Common Issues](#common-issues)
-- [Usage Examples](#usage-examples)
-- [License](#license)
-- [Getting Started](#getting-started)
-- [Learn More](#learn-more)
-- [Deploy on Vercel](#deploy-on-vercel)
-- [Contributing](#contributing)
+- [](#)
+- [Bookstream 📚](#bookstream-)
+  - [Table of Contents](#table-of-contents)
+  - [Features ✨](#features-)
+  - [Tech Stack 🛠️](#tech-stack-️)
+  - [Installation 🚀](#installation-)
+    - [Important Note](#important-note)
+  - [Common Issues ⚠️](#common-issues-️)
+    - [Production Build Error](#production-build-error)
+    - [ESLint Errors](#eslint-errors)
+  - [Usage Examples 💡](#usage-examples-)
+    - [User Login](#user-login)
+    - [Adding a Book](#adding-a-book)
+  - [License 📄](#license-)
+  - [Getting Started 🏁](#getting-started-)
+  - [Learn More 📚](#learn-more-)
+  - [Deploy on Vercel ☁️](#deploy-on-vercel-️)
+  - [Contributing 🤝](#contributing-)
+    - [Contributors List](#contributors-list)
 
 ---
 
@@ -55,8 +64,12 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
    npm install
    ```
 3. **Create Environment Variables**:
-   - Create a `.env.local` file and add the following:
-     ```
+
+   - Create a `.env` file by below command and add the following:
+    ```bash
+    cp .env.example .env
+    ```
+     ```bash
      MONGODB_URI=your_mongo_db_uri
      JWT_SECRET=your_jwt_secret
      NEXT_PUBLIC_PAYMENT_API_KEY=your_payment_api_key
