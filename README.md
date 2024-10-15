@@ -42,7 +42,7 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
     - [User Login](#user-login)
     - [Adding a Book](#adding-a-book)
   - [Getting Started 🏁](#getting-started-)
-  - [Future Enhancements / Roadmap 🚀](#future-enhancements-roadmap)
+  - [Future Enhancements / Roadmap 🚀](#future-enhancements--roadmap-)
   - [Learn More 📚](#learn-more-)
   - [Deploy on Vercel ☁️](#deploy-on-vercel-️)
   - [Contributing 🤝](#contributing-)
