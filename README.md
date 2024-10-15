@@ -1,7 +1,3 @@
-
-# ![Bookstream Logo](https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg1MTF8MHwxfGFsbHwxfHxsaWJyYXJ5fHx8fHx8MTY2NjM1ODk3Nw&ixlib=rb-1.2.1&q=80&w=1080)  
-# Bookstream 📚
-
 [![MIT License](https://img.shields.io/github/license/yashksaini-coder/BookStream)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-v12.1.5-blue)](https://nextjs.org/)
 [![Express](https://img.shields.io/badge/Express-4.17.1-green)](https://expressjs.com/)
@@ -11,7 +7,12 @@
 
 Bookstream is a dynamic, feature-rich bookstore application designed to provide a seamless user experience. With its clean, responsive interface, powerful search capabilities, and secure payment processing, Bookstream is ideal for developers building or contributing to an online bookstore.
 
----
+# ![Bookstream Logo](https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg1MTF8MHwxfGFsbHwxfHxsaWJyYXJ5fHx8fHx8MTY2NjM1ODk3Nw&ixlib=rb-1.2.1&q=80&w=1080)  
+# Bookstream 📚
+
+<!--Line-->
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### This project is now OFFICIALLY accepted for
 
 <div align="center">
