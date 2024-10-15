@@ -20,18 +20,6 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
   - [Features ✨](#features-)
   - [Tech Stack 🛠️](#tech-stack-️)
   - [Installation 🚀](#installation-)
-    - [Important Note](#important-note)
-  - [Common Issues ⚠️](#common-issues-️)
-    - [Production Build Error](#production-build-error)
-    - [ESLint Errors](#eslint-errors)
-  - [Usage Examples 💡](#usage-examples-)
-    - [User Login](#user-login)
-    - [Adding a Book](#adding-a-book)
-  - [License 📄](#license-)
-  - [Getting Started 🏁](#getting-started-)
-  - [Learn More 📚](#learn-more-)
-  - [Deploy on Vercel ☁️](#deploy-on-vercel-️)
-  - [Contributing 🤝](#contributing-)
     - [Contributors List](#contributors-list)
 
 ---
@@ -65,20 +53,31 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
    ```
 3. **Create Environment Variables**:
 
-   - Create a `.env` file by below command and add the following:
+   - Create a `.env` file (in backend workspace) by below command and add the following:
     ```bash
+    cd /backend
     cp .env.example .env
     ```
+   - and update your  MongoDB URI and JWT secret key in this file.
      ```bash
      MONGODB_URI=your_mongo_db_uri
      JWT_SECRET=your_jwt_secret
      NEXT_PUBLIC_PAYMENT_API_KEY=your_payment_api_key
      ```
 
-4. **Run the application in development**:
+4. **Run the application**:
+   - back to parent directory
    ```bash
-   npm run dev
+   cd ../
+   npm run start
    ```
+   -  This will start the application in production mode.
+   -  you can also start backend and frontend by these commands:
+   -  ```bash
+   npm run start:backend
+   npm run start:frontend
+   ``` 
+
    Access the app at `http://localhost:3000`.
 
 ### Important Note
@@ -125,6 +124,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
    ```bash
    npm run dev
    ```
+   -  This will start the application in production mode.
+   -  you can also start backend and frontend by these commands:
+   -  ```bash
+   npm run dev:backend
+   npm run dev:frontend
+   ``` 
+   - 
    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 2. **Edit and Update**:
