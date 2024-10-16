@@ -5,6 +5,15 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-v4.4.6-green)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.2.7-blue)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-green)](https://nodejs.org/)
+[![Author](https://img.shields.io/badge/Author-AlolikaBhowmik-blue)](https://github.com/alo7lika)
+[![Contributors](https://img.shields.io/github/contributors/alo7lika/BookStream)](https://github.com/alo7lika/BookStream/graphs/contributors)
+[![Repo Size](https://img.shields.io/github/repo-size/alo7lika/BookStream)](https://github.com/alo7lika/BookStream)
+[![Commits](https://img.shields.io/github/commit-activity/m/alo7lika/BookStream)](https://github.com/alo7lika/BookStream/commits)
+[![Open Issues](https://img.shields.io/github/issues/alo7lika/BookStream)](https://github.com/alo7lika/BookStream/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/alo7lika/BookStream)](https://github.com/alo7lika/BookStream/pulls)
+[![Forks](https://img.shields.io/github/forks/alo7lika/BookStream)](https://github.com/alo7lika/BookStream/network)
+[![Stars](https://img.shields.io/github/stars/alo7lika/BookStream)](https://github.com/alo7lika/BookStream/stargazers)
+[![Languages](https://img.shields.io/github/languages/top/alo7lika/BookStream)](https://github.com/alo7lika/BookStream)
 
 Bookstream is a dynamic, feature-rich bookstore application designed to provide a seamless user experience. With its clean, responsive interface, powerful search capabilities, and secure payment processing, Bookstream is ideal for developers building or contributing to an online bookstore.
 
