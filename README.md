@@ -1,5 +1,3 @@
-
-# ![Bookstream Logo](https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg1MTF8MHwxfGFsbHwxfHxsaWJyYXJ5fHx8fHx8MTY2NjM1ODk3Nw&ixlib=rb-1.2.1&q=80&w=1080)  
 # Bookstream 📚
 
 [![MIT License](https://img.shields.io/github/license/yashksaini-coder/BookStream)](LICENSE)
@@ -8,10 +6,35 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-v4.4.6-green)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.2.7-blue)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-green)](https://nodejs.org/)
+[![Author](https://img.shields.io/badge/Author-Yash%20Kumar%20Saini-blue)](https://github.com/yashksaini-coder) 
+[![Open Issues](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aopen)]![6](https://img.shields.io/badge/Open%20Issues-6-red)
+[![Closed Issues](https://img.shields.io/github/issues-closed/alo7lika/BookStream/16)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aclosed) ![16](https://img.shields.io/badge/Closed%20Issues-16-brightgreen)
+[![Pull Requests](https://img.shields.io/github/issues-pr/alo7lika/BookStream/2)](https://github.com/alo7lika/BookStream/pulls?q=is%3Apr+is%3Aopen) ![2](https://img.shields.io/badge/Open%20Pull%20Requests-2-blue)
+[![Forks](https://img.shields.io/github/forks/alo7lika/BookStream/22)](https://github.com/alo7lika/BookStream/network) ![22](https://img.shields.io/badge/Forks-22-orange)
+[![Stars](https://img.shields.io/github/stars/alo7lika/BookStream/18)](https://github.com/alo7lika/BookStream/stargazers) ![18](https://img.shields.io/badge/Stars-18-yellow)
+[![Languages](https://img.shields.io/github/languages/count/alo7lika/BookStream/3)](https://github.com/alo7lika/BookStream) ![3](https://img.shields.io/badge/Languages-3-purple)
+
 
 Bookstream is a dynamic, feature-rich bookstore application designed to provide a seamless user experience. With its clean, responsive interface, powerful search capabilities, and secure payment processing, Bookstream is ideal for developers building or contributing to an online bookstore.
 
----
+# ![Bookstream Logo](https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg1MTF8MHwxfGFsbHwxfHxsaWJyYXJ5fHx8fHx8MTY2NjM1ODk3Nw&ixlib=rb-1.2.1&q=80&w=1080)  
+
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### This project is now OFFICIALLY accepted for
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="80%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/hacktober.png" alt="Hacktober fest 2024" width="80%">
+</div>
+
+<br>
+
+<!--Line-->
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Table of Contents
 - [](#)
@@ -27,14 +50,16 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
   - [Usage Examples 💡](#usage-examples-)
     - [User Login](#user-login)
     - [Adding a Book](#adding-a-book)
-  - [License 📄](#license-)
   - [Getting Started 🏁](#getting-started-)
+  - [Future Enhancements / Roadmap 🚀](#future-enhancements--roadmap-)
   - [Learn More 📚](#learn-more-)
   - [Deploy on Vercel ☁️](#deploy-on-vercel-️)
   - [Contributing 🤝](#contributing-)
     - [Contributors List](#contributors-list)
+  - [License 📄](#license-)
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Features ✨
 - **User Authentication**: Secure login and registration using JWT.
@@ -43,7 +68,7 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
 - **Secure Payment**: Integrated secure payment processing for book purchases.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop.
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Tech Stack 🛠️
 - **Frontend**: Next.js, Tailwind CSS
@@ -51,7 +76,7 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Installation 🚀
 1. **Clone the repository**:
@@ -84,7 +109,8 @@ Bookstream is a dynamic, feature-rich bookstore application designed to provide 
 ### Important Note
 If you encounter issues, refer to the [Common Issues](#common-issues-️) section for troubleshooting steps.
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Common Issues ⚠️
 
@@ -102,7 +128,8 @@ Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.  react/n
 ```
 **Solution**: Escape unescaped characters in your JSX or disable the ESLint rule in your configuration.
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Usage Examples 💡
 
@@ -112,12 +139,7 @@ Navigate to the login page, enter your credentials, and upon successful login, y
 ### Adding a Book
 In the book management section, fill out the form with book details (e.g., title, author, genre) to add a new book.
 
----
-
-## License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Getting Started 🏁
 
@@ -130,7 +152,19 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 2. **Edit and Update**:
    - Modify `app/page.tsx`. The page auto-updates as you edit.
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## Future Enhancements / Roadmap 🚀
+
+The roadmap outlines the upcoming features and improvements planned for **Bookstream**:
+
+- **Wishlist Integration**: Allow users to create and manage a wishlist of books.
+- **Ratings & Reviews**: Enable users to rate and review books.
+- **Admin Dashboard**: Introduce an admin panel for better control over book management, users, and sales data.
+- **Book Recommendations**: Implement personalized book recommendations based on user preferences and purchase history.
+- **Multilingual Support**: Expand the platform to support multiple languages for a broader audience.
+
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Learn More 📚
 
@@ -138,7 +172,8 @@ To learn more about Next.js, check out these resources:
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn)
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Deploy on Vercel ☁️
 
@@ -146,7 +181,8 @@ The easiest way to deploy your Next.js app is with [Vercel](https://vercel.com/n
 
 Visit the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Contributing 🤝
 
@@ -166,11 +202,16 @@ We welcome contributions! Here’s how to contribute:
    ```
 5. **Open a pull request**.
 
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### Contributors List
 Thanks to all contributors who have helped make this project better!
 
 [![Contributors](https://contrib.rocks/image?repo=yashksaini-coder/BookStream)](https://github.com/yashksaini-coder/BookStream/graphs/contributors)
 
----
+<img src="https://raw.githubusercontent.com/alo7lika/BookStream/refs/heads/master/README/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## License 📄
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Happy coding! 😊
