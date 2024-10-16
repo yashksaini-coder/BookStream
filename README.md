@@ -1,17 +1,19 @@
 # Bookstream 📚
+
 [![MIT License](https://img.shields.io/github/license/yashksaini-coder/BookStream)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-v12.1.5-blue)](https://nextjs.org/)
 [![Express](https://img.shields.io/badge/Express-4.17.1-green)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-v4.4.6-green)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.2.7-blue)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-green)](https://nodejs.org/)
-[![Author](https://img.shields.io/badge/Author-Yash%20Kumar%20Saini-blue)](https://github.com/yashksaini-coder)
-[![Open Issues](https://img.shields.io/github/issues/alo7lika/BookStream/6)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aopen)
-[![Closed Issues](https://img.shields.io/github/issues-closed/alo7lika/BookStream/16)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aclosed)
-[![Pull Requests](https://img.shields.io/github/issues-pr/alo7lika/BookStream/2)](https://github.com/alo7lika/BookStream/pulls?q=is%3Apr+is%3Aopen)
-[![Forks](https://img.shields.io/github/forks/alo7lika/BookStream/22)](https://github.com/alo7lika/BookStream/network)
-[![Stars](https://img.shields.io/github/stars/alo7lika/BookStream/18)](https://github.com/alo7lika/BookStream/stargazers)
-[![Languages](https://img.shields.io/github/languages/count/alo7lika/BookStream/3)](https://github.com/alo7lika/BookStream)
+[![Author](https://img.shields.io/badge/Author-Yash%20Kumar%20Saini-blue)](https://github.com/yashksaini-coder) 
+[![Open Issues](https://img.shields.io/github/issues/alo7lika/BookStream/6)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aopen) ![6](https://img.shields.io/badge/Open%20Issues-6-red)
+[![Closed Issues](https://img.shields.io/github/issues-closed/alo7lika/BookStream/16)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aclosed) ![16](https://img.shields.io/badge/Closed%20Issues-16-brightgreen)
+[![Pull Requests](https://img.shields.io/github/issues-pr/alo7lika/BookStream/2)](https://github.com/alo7lika/BookStream/pulls?q=is%3Apr+is%3Aopen) ![2](https://img.shields.io/badge/Open%20Pull%20Requests-2-blue)
+[![Forks](https://img.shields.io/github/forks/alo7lika/BookStream/22)](https://github.com/alo7lika/BookStream/network) ![22](https://img.shields.io/badge/Forks-22-orange)
+[![Stars](https://img.shields.io/github/stars/alo7lika/BookStream/18)](https://github.com/alo7lika/BookStream/stargazers) ![18](https://img.shields.io/badge/Stars-18-yellow)
+[![Languages](https://img.shields.io/github/languages/count/alo7lika/BookStream/3)](https://github.com/alo7lika/BookStream) ![3](https://img.shields.io/badge/Languages-3-purple)
+
 
 Bookstream is a dynamic, feature-rich bookstore application designed to provide a seamless user experience. With its clean, responsive interface, powerful search capabilities, and secure payment processing, Bookstream is ideal for developers building or contributing to an online bookstore.
 
