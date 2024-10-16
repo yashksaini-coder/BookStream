@@ -7,7 +7,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.2.7-blue)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-green)](https://nodejs.org/)
 [![Author](https://img.shields.io/badge/Author-Yash%20Kumar%20Saini-blue)](https://github.com/yashksaini-coder) 
-[![Open Issues](https://img.shields.io/github/issues/alo7lika/BookStream/6)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aopen) ![6](https://img.shields.io/badge/Open%20Issues-6-red)
+[![Open Issues](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aopen)]![6](https://img.shields.io/badge/Open%20Issues-6-red)
 [![Closed Issues](https://img.shields.io/github/issues-closed/alo7lika/BookStream/16)](https://github.com/alo7lika/BookStream/issues?q=is%3Aissue+is%3Aclosed) ![16](https://img.shields.io/badge/Closed%20Issues-16-brightgreen)
 [![Pull Requests](https://img.shields.io/github/issues-pr/alo7lika/BookStream/2)](https://github.com/alo7lika/BookStream/pulls?q=is%3Apr+is%3Aopen) ![2](https://img.shields.io/badge/Open%20Pull%20Requests-2-blue)
 [![Forks](https://img.shields.io/github/forks/alo7lika/BookStream/22)](https://github.com/alo7lika/BookStream/network) ![22](https://img.shields.io/badge/Forks-22-orange)
